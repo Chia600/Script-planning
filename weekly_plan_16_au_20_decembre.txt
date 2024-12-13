@@ -1,0 +1,12 @@
+| Time Slot | Monday, 2024-12-16 | Tuesday, 2024-12-17 | Wednesday, 2024-12-18 | Thursday, 2024-12-19 | Friday, 2024-12-20 |
+|--------------------------------------------------------------------------------------------------------------------------|
+| 9:00 | Gerer le Linkedin    | Candidature          | Gerer le Linkedin    | Gerer le Linkedin    | Candidature          |
+| 10:00 | MEP env              | Remise a niveau      | MEP env              | Gerer le Linkedin    | MEP env              |
+| 11:00 | Remise a niveau      | RDV France Travail   | MEP env              | Gerer le Linkedin    | MEP env              |
+| 12:00 |                      |                      |                      |                      |                      |
+| 13:00 | MEP env              | Gerer le Linkedin    | scripting/code       | MEP env              | Remise a niveau      |
+| 14:00 | MEP env              | Remise a niveau      | Remise a niveau      | Remise a niveau      | Gerer le Linkedin    |
+| 15:00 | Gerer le Linkedin    | Remise a niveau      | MEP env              | Candidature          | MEP env              |
+| 16:00 | MEP env              | scripting/code       | Candidature          | Gerer le Linkedin    | scripting/code       |
+| 17:00 | scripting/code       | Remise a niveau      | MEP env              | Gerer le Linkedin    | Refaire Planning     |
+|--------------------------------------------------------------------------------------------------------------------------|
